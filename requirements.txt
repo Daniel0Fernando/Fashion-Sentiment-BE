@@ -1,0 +1,13 @@
+Flask
+Flask-RESTful
+requests
+transformers
+torch
+scikit-learn
+flask-cors
+joblib
+shap
+nltk
+celery[redis]
+pandas
+python-dotenv #Added to avoid future errors
