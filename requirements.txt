@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Flask
 Flask-RESTful
 requests
@@ -10,4 +11,18 @@ shap
 nltk
 celery[redis]
 pandas
+=======
+Flask
+Flask-RESTful
+requests
+transformers
+torch
+scikit-learn
+flask-cors
+joblib
+shap
+nltk
+celery[redis]
+pandas
+>>>>>>> a2df2ffd820893e14d0aaea3c0fef2588c0fa6a3
 python-dotenv #Added to avoid future errors
